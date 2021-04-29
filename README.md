@@ -1,6 +1,6 @@
 # Gym Availability Tracker
 
-Python script which grabs current "bussyness" of the gym from their website with Selenium and ads it to SQLite3 db for later to analyze.
+Python script which grabs current "bussyness" of the gym from their website with Selenium and adds it to SQLite3 db for later to analyze.
 
 Original idea was to add this script to CRON job on Ubuntu Server to run it for every 15 minutes between gym opening hours.
 
